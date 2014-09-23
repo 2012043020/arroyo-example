@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Arroyo example
+#
+
+projectname: Arroyo example
+vendorid: com.arroyo.example
+mainmodule: com.arroyo.example.arroyoexample
